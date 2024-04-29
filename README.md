@@ -1,6 +1,6 @@
 # Generative-AI-Integration-Patterns-1E
 
-A comprehensive guide and implementation of Generative AI integration patterns that utilize Large Language Models (LLMs) to solve various types of use cases.
+A comprehensive guide and implementation of Generative AI applicaiton integration patterns that utilize Large Language Models (LLMs) to solve various types of use cases.
 
 For comprehensive details on the architectural patterns mentioned below, please refer to the accompanying book [Book link](). 
 
@@ -34,7 +34,10 @@ Utilizing LLMs to create a structured format to extract entities, and subsequent
 </div>
 
 ### Batch - Summarization
+Utilizing LLMs for summarizing client applications in the financial services industry.
+
 ### Real Time - Intent Classification
+
 ### Real Time -  Q&A using RAG
 
 ## Getting Started 🚀
@@ -48,7 +51,7 @@ Utilizing LLMs to create a structured format to extract entities, and subsequent
 2. Navigate to the directory:
 
    ```bash
-   cd LLM-Text-to-SQL-Architectures
+   cd Generative-AI-Integration-Patterns-1E
    ```
 
 3. **Set up a virtual environment**:
