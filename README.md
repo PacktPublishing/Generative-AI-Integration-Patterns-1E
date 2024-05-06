@@ -36,6 +36,14 @@ Utilizing LLMs to create a structured format to extract entities, and subsequent
 ### Batch - Summarization
 Utilizing LLMs for summarizing client applications in the financial services industry.
 
+<div align="center">
+<img src="./img/batch-summarization.png" alt="Architecture (100-Foot View)" width="800" height="450"/>
+</div>
+
+<div align="center">
+  Click on image to enlarge
+</div>
+
 ### Real Time - Intent Classification
 
 ### Real Time -  Q&A using RAG
